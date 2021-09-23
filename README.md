@@ -1,2 +1,2 @@
-# Introduction-to-Jupyter---Mamo
+# Introduction to Jupyter ---Mamo
 first commit
